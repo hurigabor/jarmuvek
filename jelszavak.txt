@@ -1,2 +1,5 @@
 felh: Master
 jelszó: szivárványos-egyszarvú-pillangócica
+
+felh: admin
+jelszó: admin
