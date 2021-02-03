@@ -1,13 +1,15 @@
+
+
+<<<<<<< HEAD
+jelszó: Erdély magyar!
+jelszó: Erdély még mindig magyar!
+
 felh: Master
 jelszó: szivárványos-egyszarvú-pillangócica
 
 felh: admin
 jelszó: admin
 
-jelszó: Erdély magyar!
-jelszó: Erdély még mindig magyar!
-
-
 HACK
 HACK
 HACK
@@ -835,6 +837,11 @@ HACK
 HACK
 HACK
 HACK
+=======
+felj: asdfg
+jelszó: asdfg
+
+>>>>>>> 7eb3e4c1b28b0620328598d8c146eadacb98c49f
 HACK
 HACK
 HACK
