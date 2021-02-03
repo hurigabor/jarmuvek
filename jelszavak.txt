@@ -8,7 +8,7 @@ jelszó: szivárványos-egyszarvú-pillangócica
 felh: admin
 jelszó: admin
 
-felj: asdfg
+felh: asdfg
 jelszó: asdfg
 
 Hacker elkapva és letartóztatva
