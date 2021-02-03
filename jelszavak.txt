@@ -1,3 +1,7 @@
+
+jelszó: Erdély magyar!
+jelszó: Erdély még mindig magyar!
+
 felh: Master
 jelszó: szivárványos-egyszarvú-pillangócica
 
@@ -8,3 +12,5 @@ felj: asdfg
 jelszó: asdfg
 
 Hacker elkapva és letartóztatva
+Egyetlen kérése a cellájába egy internetkapcsolattal rendelkező laptop volt
+
