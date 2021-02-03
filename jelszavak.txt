@@ -5,6 +5,8 @@ felh: admin
 jelszó: admin
 
 jelszó: Erdély magyar!
+jelszó: Erdély még mindig magyar!
+
 
 HACK
 HACK
